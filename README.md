@@ -1,2 +1,2 @@
 # homeworks
-data science homeworks
+ml homeworks
