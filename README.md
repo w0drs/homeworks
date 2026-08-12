@@ -40,6 +40,15 @@
 - `Decision Tree`
 - `Random Forest`
 
+Финальной моделью было выбрано дерево решений из-за хорошей обобщающей способности.  
+Его финальные метрики:
+- F1:	0.656
+- ROC-AUC:	0.925
+-	Precision:	0.710
+-	Recall:	0.610
+-	Average precision:	0.695
+-	Accuracy:	0.900
+
 ## Структура проекта
 ```text
 online-shoppers-purchasing-intention/
