@@ -6,7 +6,7 @@
 
 ## Данные
 
-Для решения задачи Был выбран датасет [Online Shoppers Purchasing Intention](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset).  
+Для решения задачи был выбран датасет [Online Shoppers Purchasing Intention](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset).  
 
 Данные включают:
 - 12,330 сессий  
