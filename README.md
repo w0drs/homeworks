@@ -1,8 +1,8 @@
 # Porto Seguro's Safe Driver Prediction
 
-**Ссылка:** [Porto Seguro's Safe Driver Prediction](https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction)
-**Результат:** 0.28367 Gini  
-**Место:** Примерно 1788. Это соревнование завершено (9 лет назад)
+**Ссылка:** [Porto Seguro's Safe Driver Prediction](https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction)  
+**Результат:** 0.28367 Gini    
+**Место:** Примерно 1788. Это соревнование завершено (9 лет назад)  
 
 ---
 
