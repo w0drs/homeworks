@@ -59,6 +59,24 @@
 - **Признаки** `is_new_driver`, `age_squared` - без изменений
 - **Блендинг** (стэкинг показал себя лучше)
 
+
+## Инструкции по воспроизведению
+
+1. **Скачать данные**
+   - Перейти на страницу [соревнования](https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction/data)
+   - Скачать файлы `train.csv`, `test.csv`
+
+2. **Запустить ноутбук**
+   - Открыть `porto_notebook.ipynb` в Kaggle Notebook или локально (Jupyter)
+   - Убедиться, что данные находятся в папке `data` или изменить путь загрузки
+
+3. **Установка зависимостей**
+   ```bash
+   pip install lightgbm catboost xgboost scikit-learn pandas numpy
+   ```
+   
+4. **Запуск**
+   - Выполнить все ячейки последовательно
 ---
 
 ## Итог
